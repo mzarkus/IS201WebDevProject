@@ -1,0 +1,72 @@
+.header {
+    color: #fcefe3;
+    padding: 100px;
+    text-align: center;
+    background-image: url("../assets/img/oscar.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+.mainbody {
+    background-color: rgb(252, 252, 252);
+}
+
+.common{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+nav{
+    background-color: rgb(0, 0, 0);
+    padding: 10px;
+    color: #FF8000;
+     margin: 5px solid rgb(252, 252, 252);
+}
+
+
+.list{
+    color:rgb(0, 0, 0);
+    font: size 20px;
+}
+
+.subhead{
+    font-style: italic;
+}
+
+.left {
+    float: left;
+    width: 45%;
+}
+
+.right {
+    float: right;
+    width: 45%;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td {
+    border-bottom: 1px solid lightgray;
+    padding: 15px;
+}
+
+.commontbl{
+    padding-left: 500px;
+    padding-right: 500px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.gototop{
+    background-color: black;
+    color:#FF8000;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+
+}
